@@ -1,0 +1,48 @@
+ h1 {
+                left: 0;
+                line-height: 200px;
+                margin-top: -100px;
+                position: absolute;
+                text-align: center;
+                top: 50%;
+                width: 100%;
+                font-size: 100px
+                
+}
+h2{
+    text-align:center;
+    font-size: 80px
+}
+h3{
+    font-size: 40px
+}
+            html{
+                scroll-behavior: smooth;
+            }
+            #section1{
+                height:100vh;
+                background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);;
+                
+            }
+            #section2{
+                height:100vh;
+                background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);;
+            }
+            
+            #section3{
+                height:100vh;
+                background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+            }
+            #section4{
+                height:100vh;
+                background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+            }
+            #section5{
+                height:100vh;
+                background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+            }
+            body{
+                font-family: 'Trebuchet MS', sans-serif;
+}
+            }
+            
